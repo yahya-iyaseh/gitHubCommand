@@ -1,1 +1,17 @@
 git and git-hub command
+
+initial git -- 
+git init
+
+to show the status --
+git status
+
+to add a new file to traking --
+ git add <fileName>
+
+to commit --
+git commit -m "the message you want"
+
+to show the git log -- 
+git log 
+
